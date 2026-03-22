@@ -12,7 +12,23 @@ Whenever I make a request, silently check which file within ./skills/ contains t
 Read and load into your context the specific instructions of the selected skill before generating the final response.
 
 ## 3. Registered Skills
-Follow the instructions of this file: [git-commit](./skills/git-commit.md)
+Follow the instructions of these files:
+- [git-commit](./skills/git-commit.md)
+- [clean-architecture](./skills/clean-architecture.md)
+- [clean-code](./skills/clean-code.md)
+- [solid-principles](./skills/solid-principles.md)
+- [design-patterns](./skills/design-patterns.md)
+- [ds-and-algorithms](./skills/ds-and-algorithms.md)
+- [database-engineering](./skills/database-engineering.md)
+- [api-design-patterns](./skills/api-design-patterns.md)
+- [testing-and-qa](./skills/testing-and-qa.md)
+- [devops-infrastructure](./skills/devops-infrastructure.md)
+- [security-engineering](./skills/security-engineering.md)
+- [frontend-architecture](./skills/frontend-architecture.md)
+- [backend-architecture](./skills/backend-architecture.md)
+- [system-design](./skills/system-design.md)
+- [distributed-systems](./skills/distributed-systems.md)
+- [cloud-native-computing](./skills/cloud-native-computing.md)
 
 ## 4. Fallback Behavior
 [Add a fallback rule, e.g., "If I ask for something that does not have a corresponding skill mapped in the ./skills/ directory, let me know that you do not have that module loaded instead of trying to guess."]
