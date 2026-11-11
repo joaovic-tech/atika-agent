@@ -1,3 +1,8 @@
+---
+name: git-commit
+description: Semantic commit protocol. Use when writing, reviewing, or splitting git commits, or when the user asks for a commit message.
+---
+
 # COMMUNICATION PROTOCOL: SEMANTIC COMMITS
 
 ## 1. OBJECTIVE

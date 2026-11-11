@@ -1,0 +1,8 @@
+---
+name: cloud-native-computing
+description: Cloud-native computing (Kubernetes, microservices, serverless, observability). Use for cloud architecture decisions.
+---
+
+# MODULE NOT WRITTEN YET
+
+This skill has no content yet. Do NOT improvise its rules. Apply the Fallback Behavior from AGENTS.md: tell the user this module is not loaded.
